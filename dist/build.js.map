@@ -1,0 +1,1 @@
+{"version":3,"file":"build.js","sourceRoot":"C:/Users/CO'Leary/Documents/Misc/chrome-extension/src/","sources":["extension.ts"],"names":[],"mappings":"AAAA,QAAQ,CAAC,cAAc,CAAC,0BAA0B,CAAC,CAAC,MAAM,GAAG;IAC5D,OAAO,CAAC,GAAG,CAAC,+BAA+B,CAAC,CAAC;IAG7C,QAAQ,CAAC,cAAc,CAAC,qCAAqC,CAAC,CAAC,OAAO,GAAG,UAAS,KAAa;QAC5F,IAAI,CAAC,MAAM,EAAE,CAAC;IACjB,CAAC,CAAC;AACH,CAAC,CAAC"}
